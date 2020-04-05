@@ -1,5 +1,7 @@
 # TheSource
-AraCred GitHub Actions Integration
+
+SourceCred GitHub Actions
+
 ---
 
 [project.json](https://github.com/aracred/TheSource/blob/master/project.json) is where you can change the parameters for SourceCred.
