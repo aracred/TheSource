@@ -6,3 +6,4 @@ AraCred GitHub Actions Integration
 
 [generate-cred.yml](https://github.com/aracred/TheSource/blob/master/.github/workflows/generate-cred.yml) is where you can change the GitHub actions that run AraCred.
 
+[docs](https://github.com/aracred/TheSource/tree/master/docs) creates the visualziation of your SourceCred scores.
