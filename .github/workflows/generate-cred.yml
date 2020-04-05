@@ -1,12 +1,6 @@
 name: generate-cred
 
-on:
-  # Trigger on merging to master.
-  push: 
-    branches: 
-      - master
-      - experimental
-  # As well as every 6 hours.
+on: [push]
   schedule:
     - cron: 0 */6 * * *
 
